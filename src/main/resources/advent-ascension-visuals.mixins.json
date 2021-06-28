@@ -1,0 +1,9 @@
+{
+    "minVersion": "0.8",
+    "refmap": "advent-ascension-visuals.refmap.json",
+    "package": "rmc.mixins.advent_ascension_visuals.inject",
+    "mixins": [
+        "HaunterShotEntityMixin",
+        "VolatileCannonballEntityMixin"
+    ]
+}
